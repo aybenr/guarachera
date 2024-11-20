@@ -1,0 +1,21 @@
+body{
+    background-image: url(../logo/fondo.png);
+    background-repeat: no-repeat;
+    background-position:center;
+    background-size: cover;
+}
+
+.contenedor{
+    margin-top: 4%;
+    height: auto;
+    width: 40%;
+    justify-content: center;
+    background-color: darkgray;
+    border-radius: 20px;
+}
+
+.img2{
+    height: 90px;
+    width: 90px;
+    float: right;
+}

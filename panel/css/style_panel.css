@@ -1,0 +1,55 @@
+body{
+    background-image: url(../logo/fondo.png);
+    background-repeat: no-repeat;
+    background-position:center;
+    background-size: cover;
+}
+
+.titulo{
+    margin-top: 10%;
+}
+
+.contenedor{
+    height: auto;
+    width: 50%;
+    display: flex;
+    justify-content: center;
+    background-color: darkgray;
+    border-radius: 20px;
+}
+
+.imagen1{
+    display: grid;
+    justify-content: center;
+    height: auto;
+    width: auto;
+    margin-right: 6%;
+}
+
+.imagen2{
+    display: grid;
+    justify-content: center;
+    height: auto;
+    width: auto;
+    margin-left: 6%;
+}
+
+.img1{
+    margin-top: 4%;
+    height: 100px;
+    width: 100px;
+    border-radius: 10px;
+}
+
+.img2{
+    margin-top: 4%;
+    height: 100px;
+    width: 100px;
+    border-radius: 10px;
+}
+
+.cerrar{
+    height: 90px;
+    width: 90px;
+    float: right;
+}
